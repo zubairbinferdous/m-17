@@ -1,8 +1,10 @@
 var school = "habiab school and college" ;
-const Name = "habib" ;
+const Name = "zubi" ;
 let age = 29;
 age = 31;
-console.log("school::",school ,"name::" ,Name , "age::", age);
+age = 40;
+const yourName = 'habib khan';
+console.log("school::",school, "name::",yourName , "age:", age);
 
 
 function mySum(a,b){
@@ -18,3 +20,4 @@ for (let i = 0; i < otherName.length; i++) {
     console.log(element);
 }
 
+var youtube = 'ok';
